@@ -1,0 +1,13 @@
+setup.py
+ubc_chbe_computational_methods/__init__.py
+ubc_chbe_computational_methods/linear_nonlinear_systems.py
+ubc_chbe_computational_methods/numericalintegration.py
+ubc_chbe_computational_methods/ode_solve.py
+ubc_chbe_computational_methods/regression.py
+ubc_chbe_computational_methods/root_finding.py
+ubc_chbe_computational_methods.egg-info/PKG-INFO
+ubc_chbe_computational_methods.egg-info/SOURCES.txt
+ubc_chbe_computational_methods.egg-info/dependency_links.txt
+ubc_chbe_computational_methods.egg-info/not-zip-safe
+ubc_chbe_computational_methods.egg-info/requires.txt
+ubc_chbe_computational_methods.egg-info/top_level.txt

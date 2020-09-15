@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ubc-chbe-computational-methods
+Version: 0.1.1
+Summary: Essential python functions for numerical techniques
+Home-page: https://github.com/OpenChemE/Computational_Methods
+Author: Arman Seyed-Ahmadi
+Author-email: arman.awn@gmail.com
+License: GPLv3
+Description: This package contains all functions developed for teaching the course CHBE 230 (Computational Methods). Computational techniques including root-finding, linear and nonlinear systems, curve-fitting, differentiation, integration, and ODE solution methods are implemented. For more information and examples for each method, pelase refer to the github page.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
