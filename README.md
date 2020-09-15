@@ -8,7 +8,7 @@ This repository contains essential python tutorials and functions for numerical 
 - `./images`: This folder stores the image files used in the Jupyer notebooks.
 - `./package`: The modules and functions are stored as a python package here. This package is hosted on [PyPi.org](https://pypi.org/project/ubc-chbe-computational-methods/) so that anyone can install and use the functions without the need for copying functions from the notebooks.
 
-## Package installation
+# Package installation
 In case you want to have the modules and functions globally available on your system, such that you can use them anywhere else, you can install the package by running the following command:
 ```bash
 pip install ubc_chbe_computational_methods
