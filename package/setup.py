@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(name='ubc_chbe_computational_methods',
-      version='0.1.1',
+      version='0.1.2',
       description='Essential python functions for numerical techniques',
       long_description='This package contains all functions developed for teaching the course CHBE 230 (Computational Methods). Computational techniques including root-finding, linear and nonlinear systems, curve-fitting, differentiation, integration, and ODE solution methods are implemented. For more information and examples for each method, pelase refer to the github page.',
       long_description_content_type='text/markdown',
